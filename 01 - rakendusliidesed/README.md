@@ -15,4 +15,4 @@ Nimekirjad rakendusliidestest:
 * https://apilist.fun/ 
 * https://public-apis.xyz/
 
-**NB!** Kui kasutate mingit rakendusliidest, mis nõuab võtmetega või tokeniga autentimist, siis neid ei tohi githubi panna! Lugege need failist sisse ning sellele failile `git add` ei tee. Võite selle faili panna kirja faili `.gitignore`, et seda faili kogemata ei lisaks.
+**NB!** Kui kasutate mingit rakendusliidest, mis nõuab võtmetega või tokeniga autentimist, siis neid võtmeid ei tohi githubi panna! Lugege need failist sisse ning sellele failile `git add` ei tee. Võite selle faili panna kirja faili `.gitignore`, et seda faili kogemata ei lisaks.
