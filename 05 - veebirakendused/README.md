@@ -19,11 +19,16 @@ Mõned rakenduse ideed:
     * Veel parem, kui kasutada andmebaasi
     * Siin tuleks kasutada POST-päringut
  
-Materjalid: 
+Flaski materjalid: 
 * https://courses.cs.ut.ee/2020/programmeerimine/fall/Main/Silmaring5
 * https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html
-* https://pythonprogramminglanguage.com/python-flask-example/
-* https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
-* https://pythonspot.com/flask-web-app-with-python/
+* https://www.youtube.com/watch?v=zRwy8gtgJ1A
 
+HTML-i/CSS-i materjalid:
+* https://courses.cs.ut.ee/t/nooredkoodi/Veebilehed/Veebilehed
+* https://developer.mozilla.org/en-US/docs/Learn/HTML
+* https://dev.to/nghiemthu/learn-html-basics-in-15-minutes-for-absolute-beginners-html-tutorial-2021-2ok2
+* https://www.youtube.com/watch?v=UB1O30fR-EE
+* https://www.youtube.com/watch?v=yfoY53QXEnI
+   
 Tunni lindistus on Stuudiumis.
