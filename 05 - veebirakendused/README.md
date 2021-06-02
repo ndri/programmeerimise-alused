@@ -31,4 +31,6 @@ HTML-i/CSS-i materjalid:
 * https://www.youtube.com/watch?v=UB1O30fR-EE
 * https://www.youtube.com/watch?v=yfoY53QXEnI
    
-Tunni lindistus on Stuudiumis.
+Tunni lindistus on Stuudiumis. 
+   
+Kui on vaja abi millegagi, nt miks kood ei tööta või kuidas Flaskis/HTML-is midagi teha, siis peab mulle Stuudiumis kirjutama.
